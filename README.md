@@ -1,7 +1,7 @@
 
 
-````markdown
-# TSP Route Optimizer and Visualizer
+
+## TSP Route Optimizer and Visualizer
 
 This project solves the **Travelling Salesman Problem (TSP)** using a combination of Greedy and 2-Opt algorithms. It reads location data from a CSV, computes an optimal route, exports the route as a GeoJSON file, and optionally visualizes the route on a map.
 
