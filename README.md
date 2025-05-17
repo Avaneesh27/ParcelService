@@ -95,9 +95,6 @@ python tsp_solver.py --csv sample_places.csv --start PlaceA --return
 * `geojson_exporter.py`: Used to export path to `.geojson` format.
 * `places.py`: Defines the `Place` data structure.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 
