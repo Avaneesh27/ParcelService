@@ -1,6 +1,4 @@
-Here’s a comprehensive `README.md` file for your GitHub repository based on the uploaded project files. It provides an overview, setup instructions, usage examples, and explanations of the key components.
 
----
 
 ````markdown
 # TSP Route Optimizer and Visualizer
@@ -102,7 +100,4 @@ Built with ❤️ using Python and `matplotlib`.
 
 ---
 
-```
 
-Let me know if you'd like to customize this README further (e.g., add usage screenshots, explanation of algorithms, or links to demos).
-```
