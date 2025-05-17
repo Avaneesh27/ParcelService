@@ -33,7 +33,7 @@ This project solves the **Travelling Salesman Problem (TSP)** using a combinatio
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/tsp-route-optimizer.git
+   git clone https://github.com/Avaneesh27/ParcelService
    cd tsp-route-optimizer
    ```
 
